@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta+Malar:wght@200&display=swap');
+/*
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+ */
+
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    font-family: 'Mukta Malar', sans-serif;
+}
+
+#home {
+    min-height: 400px;
+}
+
+#features {
+    min-height: 400px;
+}
+
+#pricing {
+    min-height: 400px;
+}
+
+#faq {
+    min-height: 400px;
+}
+
+#sign-in {
+    min-height: 400px;
+}
+
+#contact {
+    min-height: 400px;
+}
+
+#footer {
+    min-height: 20px;
+}
+
+#output {
+    padding: 20px;
+    text-align: center;
+}
